@@ -34,5 +34,5 @@ This repository contains key assignments and projects for CS5010. The course is 
 ## mod10assignment_keeley.ipynb (Aggregating and Querying Using Pandas and Numpy)
 - Summary: see subject line. Primarily used aggregate functions. Python.
 
-## visualization_assignment_keeley.py (Visualization
+## visualization_assignment_keeley.py (Visualization)
 - Summary: used matplotlib to create different plots and visuals. Python.
